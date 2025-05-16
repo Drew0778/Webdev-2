@@ -1,0 +1,16 @@
+body {
+    background-image: url('https://images6.alphacoders.com/538/538945.jpg');
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+}
+body {
+  color: white;
+  background-color: black; /* optional: improves contrast */
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 2.5em;
+  margin-top: 20px;
+}
